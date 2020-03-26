@@ -16,15 +16,30 @@
 
 .smbc-header-logo {
     display: inline-block;
-    min-width: 250px;
-    padding-top: 51px;
-    background-image: url(/assets/images/smbc_header_desktop_logo_250x51.png);
+    min-width: 150px;
+    padding-top: 31px;
+    background-image: url(/assets/images/smbc_header_mobile_logo_150x31.png);
     background-repeat: no-repeat;
     background-position: 50% 0;
-    background-size: 250px 51px;
+    background-size: 150px 31px;
     text-align: center;
     text-decoration: none;
     white-space: nowrap
+}
+
+@media (min-width:40.0625em) {
+    .smbc-header-logo {
+        display: inline-block;
+        min-width: 250px;
+        padding-top: 51px;
+        background-image: url(/assets/images/smbc_header_desktop_logo_250x51.png);
+        background-repeat: no-repeat;
+        background-position: 50% 0;
+        background-size: 250px 51px;
+        text-align: center;
+        text-decoration: none;
+        white-space: nowrap
+    }
 }
 
 @media only screen and (-webkit-min-device-pixel-ratio:2),
