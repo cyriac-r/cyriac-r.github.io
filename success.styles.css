@@ -3238,7 +3238,7 @@ only screen and (min-resolution:192dpi) {
     line-height: 1.14286;
     border-bottom: 10px solid #fff;
     color: #fff;
-    background: #0b0c0c
+    background: #006666
 }
 
 @media print {
@@ -3264,7 +3264,7 @@ only screen and (min-resolution:192dpi) {
 
 .govuk-header__container--full-width {
     padding: 0 15px;
-    border-color: #066
+    border-color: #00b79b
 }
 
 .govuk-header__container--full-width .govuk-header__menu-button {
@@ -3275,7 +3275,7 @@ only screen and (min-resolution:192dpi) {
     position: relative;
     margin-bottom: -10px;
     padding-top: 10px;
-    border-bottom: 10px solid #066
+    border-bottom: 10px solid #00b79b
 }
 
 .govuk-header__container:after {
