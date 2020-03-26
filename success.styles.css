@@ -16,12 +16,12 @@
 
 .smbc-header-logo {
     display: inline-block;
-    min-width: 150px;
-    padding-top: 31px;
-    background-image: url(/assets/images/smbc_header_mobile_logo_150x31.png);
+    min-width: 180px;
+    padding-top: 37px;
+    background-image: url(/assets/images/smbc_header_mobile_logo_180x37.png);
     background-repeat: no-repeat;
     background-position: 50% 0;
-    background-size: 150px 31px;
+    background-size: 180px 37px;
     text-align: center;
     text-decoration: none;
     white-space: nowrap
@@ -30,12 +30,12 @@
 @media (min-width:40.0625em) {
     .smbc-header-logo {
         display: inline-block;
-        min-width: 250px;
-        padding-top: 51px;
-        background-image: url(/assets/images/smbc_header_desktop_logo_250x51.png);
+        min-width: 200px;
+        padding-top: 41px;
+        background-image: url(/assets/images/smbc_header_desktop_logo_200x41.png);
         background-repeat: no-repeat;
         background-position: 50% 0;
-        background-size: 250px 51px;
+        background-size: 200px 41px;
         text-align: center;
         text-decoration: none;
         white-space: nowrap
