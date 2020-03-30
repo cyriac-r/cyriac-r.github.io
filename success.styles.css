@@ -28,7 +28,7 @@
 }
 
 .smbc-header-logo:focus {
-    background-image: url(/assets/images/smbc_focus_mobile_logo_180x37.png);
+    background-image: url(/assets/images/smbc_logo.svg);
 }
 
 @media (min-width:40.0625em) {
@@ -42,7 +42,7 @@
 
 @media (min-width:40.0625em) {
     .smbc-header-logo:focus {
-        background-image: url(/assets/images/smbc_focus_desktop_logo_200x41.png);
+        background-image: url(/assets/images/smbc_logo.svg);
     }
 }
 
@@ -51,7 +51,7 @@ only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:2dppx),
 only screen and (min-resolution:192dpi) {
     .smbc-header-logo {
-        background-image: url(/assets/images/smbc_header_logo_@2x.png)
+        background-image: url(/assets/images/smbc_logo.svg)
     }
 }
 
