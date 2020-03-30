@@ -51,7 +51,7 @@ only screen and (min-device-pixel-ratio:2),
 only screen and (min-resolution:2dppx),
 only screen and (min-resolution:192dpi) {
     .smbc-header-logo {
-        background-image: url(/assets/images/smbc_header_mobile_logo_@2x_180x37.png)
+        background-image: url(/assets/images/smbc_header_logo_@2x.png)
     }
 }
 
